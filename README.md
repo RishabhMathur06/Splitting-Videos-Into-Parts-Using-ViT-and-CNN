@@ -1,0 +1,1 @@
+# Splitting-Videos-Into-Parts-Using-ViT-and-CNN
